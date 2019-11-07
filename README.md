@@ -37,5 +37,5 @@ yarn ou npm install
 ## 📅 Entrega
 Resolvi fazer o CSS do meu estilo, mas tentei manter o maximo o que foi solicitado no projeto
 <span align="center">
-  <img src="https://uploaddeimagens.com.br/imagens/projeto-png-014821d1-3160-4fe8-b53e-230c090c1377" alt="Projeto Rocketseat" />
+  <img src="https://uploaddeimagens.com.br/images/002/487/985/original/projeto.png?1573100550" alt="Projeto Rocketseat" />
 </span>
