@@ -22,7 +22,6 @@ todas as libs do projeto
 
 ```
 yarn ou npm install
-
 ```
 
 ### Tecnologias
